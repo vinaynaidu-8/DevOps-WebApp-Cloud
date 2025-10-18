@@ -38,3 +38,5 @@ terraform/terraform.tfstate.backup
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
